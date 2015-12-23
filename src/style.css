@@ -111,6 +111,12 @@ body {
     background-color: black;
     color: #aaa;
 }
+
+.results .management button:active {
+    background-color: white;
+    color: #311B92;
+}
+
 .results .management .next {
     flex: 1;
 }
